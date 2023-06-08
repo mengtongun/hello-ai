@@ -1,6 +1,6 @@
 {
     "resourceName": "audiototext",
-    "convertPolicyName": "transcriptionPolicy4c5052f0",
+    "convertPolicyName": "transcriptionPolicy7644e352",
     "authRoleName": {
         "Ref": "AuthRoleName"
     },

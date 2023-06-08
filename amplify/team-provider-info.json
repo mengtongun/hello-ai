@@ -15,16 +15,16 @@
       "auth": {
         "helloaibc6272d5": {}
       },
-      "predictions": {
-        "speechtotext": {},
-        "audiototext": {}
-      },
       "hosting": {
         "S3AndCloudFront": {},
         "amplifyhosting": {
           "appId": "d1nyd4373bs73v",
           "type": "manual"
         }
+      },
+      "predictions": {
+        "texttoaudio": {},
+        "audiototext": {}
       }
     }
   }

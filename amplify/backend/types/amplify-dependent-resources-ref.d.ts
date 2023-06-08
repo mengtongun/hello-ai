@@ -11,7 +11,7 @@ export type AmplifyDependentResourcesAttributes = {
         }
     },
     "predictions": {
-        "speechtotext": {
+        "texttoaudio": {
             "region": "string",
             "language": "string",
             "voice": "string"
