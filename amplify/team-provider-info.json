@@ -20,7 +20,11 @@
         "audiototext": {}
       },
       "hosting": {
-        "S3AndCloudFront": {}
+        "S3AndCloudFront": {},
+        "amplifyhosting": {
+          "appId": "d1nyd4373bs73v",
+          "type": "manual"
+        }
       }
     }
   }
